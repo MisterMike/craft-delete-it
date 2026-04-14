@@ -66,23 +66,5 @@
             "yiisoft/yii2-composer": true,
             "craftcms/plugin-installer": true
         }
-    },
-    "archive": {
-        "exclude": [
-            ".devcontainer",
-            ".github",
-            ".vscode",
-            "/resources",
-            ".editorconfig",
-            ".gitignore",
-            ".gitattributes",
-            "CODEOWNERS",
-            "*.md",
-            "*.dist.php",
-            "*.neon",
-            "*release*.json",
-            "!README.md",
-            "!CHANGELOG.md"
-        ]
     }
 }
